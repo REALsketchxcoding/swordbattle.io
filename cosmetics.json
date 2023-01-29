@@ -3,6 +3,7 @@
         {
             "name": "player",
             "displayName": "Default",
+             "category": "Skin",
             "url": "/assets/images/player.png",
             "price": 0,
             "description": "The default skin"
